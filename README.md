@@ -2,7 +2,7 @@
 
 ## Über mich
 
-- 🤓 Ich suche aktuell ein Praktikum oder eine Einstiegsposition im Bereich Datenanalyse, um mit echten Datensätzen zu arbeiten und meine Fähigkeiten weiterzuentwickeln!
+- 🤓 Ich suche aktuell ein Praktikum und/oder eine Einstiegsposition im Bereich Datenanalyse.
 
 ## Tools, Skills & Technologien:
 
