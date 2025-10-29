@@ -1,9 +1,11 @@
-![banner](https://github.com/Watchkido/Frank-Albrecht-Data-Analyst/blob/main/my_data_analyst_frank_albrecht_banner.png)
+![banner](https://github.com/Watchkido/Frank_Albrecht-Data_Analyst/blob/main/TheRightAnalyst/img/my_data_analyst_frank_albrecht_banner.png)
+
 ## About me
 
 - 🤓 I’m currently looking for a data analysis internship or entry-level position to dive into real-world datasets and grow my skills!
 
-## Tools & Technologies  
+## Tools & Technologies
+
 - Data analysing 🔍
 - Data visualisation 📈
 - Power BI and Tableau 📊
@@ -13,18 +15,20 @@
 - Machine Learning
 
 ## Language
+
 - German, - Native
 - English - A1
-  
+
 ## Interests
+
 - Programming Android apps
 - Shotokan Karate (Teacher/2nd Kyu)
-- 
+-
 - Healthy lifestyle
 
 ## Follow me
 
-[Linkedin]((https://www.linkedin.com/in/frank-albrecht/))
+[Linkedin](<(https://www.linkedin.com/in/frank-albrecht/)>)
 [Instagram](https://www.instagram.c)
 [Facebook](https://www.facebook.com/)
 [Youtube](https://www.youtube.com/)
