@@ -55,9 +55,21 @@ Echtzeit-Datenpipeline für internationale Nachrichten: Web-Scraping, NLP und Da
 
 Vollständige Checkliste für den Datenanalyseprozess – von Import bis Visualisierung. Methoden für Python, Excel, MySQL und KNIME, strukturiert als CSV.
 
-### [Riffbarsch AI-Analyse](TheRightAnalyst/md/Riffbarsch%20AI-Analyse.md)
+### [Riffbarsch AI-Analyse](https://github.com/Watchkido/010_Riffbarsch)
 
 KI-gestützte Unterwasser-Fischerkennung und -analyse mit PyTorch. Automatisierte Bildauswertung, Modelltraining und spannende Features für die Forschung.
+
+### [Abschlussarbeit PowerBI](https://github.com/Watchkido/Abschlussarbeit-PowerBI)
+
+Notfallanalyse: Erpressungsversuch durch angeblichen Datenleak - Umfassende PowerBI-Analyse zur Aufklärung eines angeblichen Datenleaks mit Erpressungsversuch. Dashboards und forensische Datenanalyse zur Identifikation von Sicherheitslücken und Risikobewertung.
+
+### [Abschlussarbeit SQL](https://github.com/Watchkido/Abschlussarbeit-SQL)
+
+Kreditrisikoanalyse & Risikoadjustiertes Pricing - SQL-basierte Untersuchung von Kreditvergabe, Risikoklassifikation und Preisgestaltung für unbesicherte Konsumentenkredite. Entwicklung von Risikomodellen zur Verbesserung der Risikotransparenz und Effizienz.
+
+### [Abschlussarbeit Excel](https://github.com/Watchkido/Abschlussarbeit-Excel)
+
+Bikestore-Datenanalyse mit VBA & Dashboards - Umfassende Analyse von Verkaufsdaten eines fiktiven Fahrradgeschäfts mit automatisierten Auswertungen, Pivot-Tabellen und interaktiven Dashboards. Schwerpunkt auf Datenbereinigung, Kennzahlen und Visualisierungen.
 
 ## Follow me
 
