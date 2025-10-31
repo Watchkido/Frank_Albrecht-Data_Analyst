@@ -35,7 +35,11 @@
 
 ## Beispielprojekte
 
-### [AirScout-Analytics](TheRightAnalyst/md/AirScout-Analytics.md)
+### [Riffbarsch AI-Analyse](https://watchkido.github.io/010_Riffbarsch/)
+
+KI-gestützte Unterwasser-Fischerkennung und -analyse mit PyTorch. Automatisierte Bildauswertung, Modelltraining und spannende Features für die Forschung.
+
+### [AirScout-Analytics](https://github.com/Watchkido/AirScout-Analytics)
 
 Umweltkontrollsystem für Neustadt an der Weinstrasse: Sensoren erfassen Temperatur, Gase, Licht, Geräusche und Strahlung. Interaktives Dashboard mit Zeitreihen, Karten und Filterfunktionen für tiefgehende Umweltanalysen.
 
@@ -43,7 +47,7 @@ Umweltkontrollsystem für Neustadt an der Weinstrasse: Sensoren erfassen Tempera
 
 Automatisierte Überwachung und Pflege von Balkonpflanzen. Sensorintegration, Datenanalyse und ein Dashboard sorgen für gesunde Pflanzen und smarte Steuerung.
 
-### [CSV Data Analyzer](TheRightAnalyst/md/CSV_Analyser.md)
+### [CSV Data Analyzer](https://github.com/Watchkido/006_csv_analyser)
 
 Python-Tool zur automatischen Analyse von CSV-Dateien: Statistiken, Korrelationsanalysen, Anomalieerkennung und visuelle Auswertungen – alles auf Knopfdruck.
 
@@ -55,13 +59,9 @@ Echtzeit-Datenpipeline für internationale Nachrichten: Web-Scraping, NLP und Da
 
 Vollständige Checkliste für den Datenanalyseprozess – von Import bis Visualisierung. Methoden für Python, Excel, MySQL und KNIME, strukturiert als CSV.
 
-### [Riffbarsch AI-Analyse](https://github.com/Watchkido/010_Riffbarsch)
-
-KI-gestützte Unterwasser-Fischerkennung und -analyse mit PyTorch. Automatisierte Bildauswertung, Modelltraining und spannende Features für die Forschung.
-
 ### [Abschlussarbeit PowerBI](https://github.com/Watchkido/Abschlussarbeit-PowerBI)
 
-Notfallanalyse: Erpressungsversuch durch angeblichen Datenleak - Umfassende PowerBI-Analyse zur Aufklärung eines angeblichen Datenleaks mit Erpressungsversuch. Dashboards und forensische Datenanalyse zur Identifikation von Sicherheitslücken und Risikobewertung.
+ad-hoc-Notfallanalyse: Erpressungsversuch durch angeblichen Datenleak - Umfassende PowerBI-Analyse zur Aufklärung eines angeblichen Datenleaks mit Erpressungsversuch. Dashboards und forensische Datenanalyse zur Identifikation von Sicherheitslücken und Risikobewertung.
 
 ### [Abschlussarbeit SQL](https://github.com/Watchkido/Abschlussarbeit-SQL)
 
