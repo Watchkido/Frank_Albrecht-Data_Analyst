@@ -7,7 +7,7 @@
 
 > **Modulare Data Lakehouse-Plattform zur automatisierten globalen Medienanalyse mit Deutschland-Bezug**
 
-DataRaptor sammelt, analysiert und übersetzt automatisch internationale Nachrichtenartikel aus 1500+ RSS-Feeds und extrahiert deutschlandrelevante Inhalte für umfassende Medienbeobachtung.
+DataRaptor sammelt, analysiert und übersetzt automatisch internationale Nachrichtenartikel aus 1500+ RSS-Feeds und extrahiert deutschlandrelevante Inhalte für umfassende Medienbeobachtung. Edit: erweitert um Brandyanalysen und weltweite Konflikte zur vorhersage von Wirtschaftsproblemen.
 
 ## 🚀 Quick Start
 
