@@ -1,4 +1,4 @@
-![banner](https://github.com/Watchkido/Frank_Albrecht-Data_Analyst/blob/main/the_right_data_analyst.png))
+![banner](https://github.com/Watchkido/Frank_Albrecht-Data_Analyst/blob/main/the_right_data_analyst.png)
 
 ## Über mich
 
