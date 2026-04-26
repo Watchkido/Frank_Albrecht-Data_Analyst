@@ -43,7 +43,7 @@ Selbst gebautes mobiles Messsystem mit Arduino Mega 2560 und 12+ Sensoren (CO/CO
 ### 🦾 [DataRaptor](https://github.com/Watchkido/DataRaptor)
 **Globale Medienanalyse-Pipeline | Python · MongoDB · Docker · NLP**
 
-Modulare Data-Lakehouse-Plattform zur automatisierten Analyse von 1500+ internationalen RSS-Feeds. Multi-Stage-Deduplizierung, NLP-Sentiment-Analyse, geographische Klassifikation, FastAPI-Backend und Streamlit-Dashboard.
+Modulare Data-Lakehouse-Plattform zur automatisierten Analyse von 6000+ internationalen RSS-Feeds. Multi-Stage-Deduplizierung, NLP-Sentiment-Analyse, geographische Klassifikation, FastAPI-Backend und Streamlit-Dashboard.
 
 `ETL` `NLP` `Docker` `MongoDB` `FastAPI` `Streamlit` `Web-Scraping`
 
