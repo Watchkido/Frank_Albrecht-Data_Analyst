@@ -1,81 +1,125 @@
 ![banner](https://github.com/Watchkido/Frank_Albrecht-Data_Analyst/blob/main/the_right_data_analyst.png)
 
-## Über mich
+# Frank Albrecht — Data Analyst
 
-- 🤓 Ich suche aktuell ein Praktikum und/oder eine Einstiegsposition im Bereich Datenanalyse.
+> **Right data. Smart use. Better world.**
 
-## Tools, Skills & Technologien:
+Zertifizierter Data Analyst (DataSmart Point GmbH, Feb. 2026) mit 40+ Jahren Praxis in Elektronik, Präzisionsfertigung und Sicherheitssystemen. Ich baue keine Tutorial-Projekte — ich löse echte Probleme mit echten Daten.
 
-- Automatisierte Datenpipelines (ETL)
-- Zeitreihenanalyse & Geodaten-Visualisierung
-- Web-Scraping & Natural Language Processing (NLP)
-- Statistische Methoden & Anomalieerkennung
-- Feature Engineering & Datenbereinigung
-- Dashboard-Entwicklung (interaktiv, Echtzeit)
-- Jupyter Notebooks & Data Engineering
-- SQL (Kreditrisiko-Analyse, Preisoptimierung)
-- Excel (fortgeschrittene Datenanalyse)
-- C++ (Sensorsteuerung, Automatisierung)
-- API-Analyse & API-Security
-- KI-Prompts & Agentenentwicklung
-- Cloud-Architekturen (skalierbar)
+📍 Neustadt an der Weinstraße | 🔍 **Offen für Einstiegspositionen als Data Analyst**
 
-## Sprachen
+---
 
-- Deutsch, - Native
-- Englisch - A1
+## 🛠️ Stack & Skills
 
-## Interessen
+**Analyse & ML**
+`Python` `Pandas` `NumPy` `Scikit-learn` `PyTorch` `YOLOv8` `ResNet18` `Zeitreihenanalyse` `Anomalieerkennung`
 
-- Programmierung von Android-Apps
-- Shotokan Karate (Lehrer/2. Kyu Shotokan Karate)
-- Gesunder Lebensstil
-- Programmieren
-- Künstliche Intelligenz
+**Datenbanken & Pipelines**
+`SQL` `MongoDB` `ETL` `Web-Scraping` `NLP` `Docker` `Apache Spark` `Databricks`
 
-## Beispielprojekte
+**Visualisierung & BI**
+`Power BI` `Streamlit` `Plotly` `Dash` `Folium` `Excel (VBA)` `Jupyter Notebooks`
 
-### [Riffbarsch AI-Analyse](https://watchkido.github.io/010_Riffbarsch/)
+**Hardware & IoT**
+`Arduino` `C++` `Sensorintegration` `GPS` `Geigerzähler` `Echtzeit-Datenerfassung`
 
-KI-gestützte Unterwasser-Fischerkennung und -analyse mit PyTorch. Automatisierte Bildauswertung, Modelltraining und spannende Features für die Forschung.
+**APIs & Sicherheit**
+`FastAPI` `REST APIs` `API-Security` `KI-Agenten` `Prompt Engineering`
 
-### [AirScout-Analytics](https://github.com/Watchkido/AirScout-Analytics)
+---
 
-Umweltkontrollsystem für Neustadt an der Weinstrasse: Sensoren erfassen Temperatur, Gase, Licht, Geräusche und Strahlung. Interaktives Dashboard mit Zeitreihen, Karten und Filterfunktionen für tiefgehende Umweltanalysen.
+## 🚀 Ausgewählte Projekte
 
-### [Balkonpflanzen Automation](TheRightAnalyst/md/Balkonpflanzen%20Automation.md)
+### 🌍 [AirScout-Analytics](https://github.com/Watchkido/AirScout-Analytics)
+**IoT-Umweltmonitoring | Arduino · Python · Kaggle**
 
-Automatisierte Überwachung und Pflege von Balkonpflanzen. Sensorintegration, Datenanalyse und ein Dashboard sorgen für gesunde Pflanzen und smarte Steuerung.
+Selbst gebautes mobiles Messsystem mit Arduino Mega 2560 und 12+ Sensoren (CO/CO2/NOx, GPS 200Hz, Geigerzähler, Dual-Mikrofon, Klimasensoren). Durch Neustadt an der Weinstraße gefahren, Rohdaten bereinigt, analysiert und als öffentlichen [Kaggle-Datensatz](https://www.kaggle.com/datasets/avitarus/hyperlocal-urban-environmental-monitoring-dataset) unter CC-BY 4.0 veröffentlicht.
 
-### [CSV Data Analyzer](https://github.com/Watchkido/006_csv_analyser)
+`Zeitreihenanalyse` `GPS-Kartierung` `Datenpipeline` `Kaggle` `Folium` `Plotly`
 
-Python-Tool zur automatischen Analyse von CSV-Dateien: Statistiken, Korrelationsanalysen, Anomalieerkennung und visuelle Auswertungen – alles auf Knopfdruck.
+---
 
-### [DataRaptor](TheRightAnalyst/md/DataRaptor.md)
+### 🦾 [DataRaptor](https://github.com/Watchkido/DataRaptor)
+**Globale Medienanalyse-Pipeline | Python · MongoDB · Docker · NLP**
 
-Echtzeit-Datenpipeline für internationale Nachrichten: Web-Scraping, NLP und Data-Engineering für umfassende Medienbeobachtung und Analyse von Deutschland-relevanten News.
+Modulare Data-Lakehouse-Plattform zur automatisierten Analyse von 1500+ internationalen RSS-Feeds. Multi-Stage-Deduplizierung, NLP-Sentiment-Analyse, geographische Klassifikation, FastAPI-Backend und Streamlit-Dashboard.
 
-### [Datenanalyse-Checkliste](TheRightAnalyst/md/Datenanalyse-Checkliste.md)
+`ETL` `NLP` `Docker` `MongoDB` `FastAPI` `Streamlit` `Web-Scraping`
 
-Vollständige Checkliste für den Datenanalyseprozess – von Import bis Visualisierung. Methoden für Python, Excel, MySQL und KNIME, strukturiert als CSV.
+---
 
-### [Abschlussarbeit PowerBI](https://github.com/Watchkido/Abschlussarbeit-PowerBI)
+### 🐟 [Riffbarsch AI-Analyse](https://watchkido.github.io/010_Riffbarsch/)
+**Computer Vision | PyTorch · ResNet18 · YOLOv8**
 
-ad-hoc-Notfallanalyse: Erpressungsversuch durch angeblichen Datenleak - Umfassende PowerBI-Analyse zur Aufklärung eines angeblichen Datenleaks mit Erpressungsversuch. Dashboards und forensische Datenanalyse zur Identifikation von Sicherheitslücken und Risikobewertung.
+Vollständige KI-Pipeline für marine Biodiversitätsforschung: Bildklassifikation (ResNet18, 3 Klassen), Objekterkennung (YOLOv8), adaptive Segmentierung. GUI mit Tkinter, RAM-DISC-Beschleunigung für schnelle Inferenz.
 
-### [Abschlussarbeit SQL](https://github.com/Watchkido/Abschlussarbeit-SQL)
+`PyTorch` `ResNet18` `YOLOv8` `Computer Vision` `Tkinter`
 
-Kreditrisikoanalyse & Risikoadjustiertes Pricing - SQL-basierte Untersuchung von Kreditvergabe, Risikoklassifikation und Preisgestaltung für unbesicherte Konsumentenkredite. Entwicklung von Risikomodellen zur Verbesserung der Risikotransparenz und Effizienz.
+---
 
-### [Abschlussarbeit Excel](https://github.com/Watchkido/Abschlussarbeit-Excel)
+### 🔐 [Abschlussarbeit Power BI](https://github.com/Watchkido/Abschlussarbeit-PowerBI)
+**Forensische Datenanalyse | Power BI · Security**
 
-Bikestore-Datenanalyse mit VBA & Dashboards - Umfassende Analyse von Verkaufsdaten eines fiktiven Fahrradgeschäfts mit automatisierten Auswertungen, Pivot-Tabellen und interaktiven Dashboards. Schwerpunkt auf Datenbereinigung, Kennzahlen und Visualisierungen.
+Ad-hoc-Notfallanalyse eines realen Erpressungsszenarios (angeblicher Datenleak). Forensische Auswertung mit interaktiven Power-BI-Dashboards zur Identifikation von Sicherheitslücken und Risikobewertung.
 
-## Follow me
+`Power BI` `DAX` `Forensik` `Sicherheitsanalyse` `Dashboards`
 
-[Linkedin](<(https://www.linkedin.com/in/frank-albrecht/)>)
-[Instagram](https://www.instagram.c)
-[Facebook](https://www.facebook.com/Avitarus/)
-[Twitter](https://x.com/000oo000)
-[Medium](https://medium.com/@avitarus)
-[XING](https://www.xing.com/profile/Frank_Albrecht72)
+---
+
+### 💳 [Abschlussarbeit SQL](https://github.com/Watchkido/Abschlussarbeit-SQL)
+**Kreditrisikoanalyse | SQL · Risikomodellierung**
+
+SQL-basierte Untersuchung von Kreditvergabe, Risikoklassifikation und risikoadjustiertem Pricing für unbesicherte Konsumentenkredite. Entwicklung von Risikomodellen zur Verbesserung von Transparenz und Effizienz.
+
+`SQL` `Kreditrisiko` `Risikomodelle` `Preisoptimierung`
+
+---
+
+### 📊 [CSV Data Analyzer](https://github.com/Watchkido/006_csv_analyser)
+**Statistik-Tool | Python · Scikit-learn**
+
+Automatische Analyse beliebiger CSV-Dateien: deskriptive Statistik, Pearson-Korrelation, Z-Score-Anomalieerkennung, lineare/multiple Regression, Histogramme, Boxplots, Violinplots — alles auf Knopfdruck.
+
+`Python` `Pandas` `Scipy` `Matplotlib` `Anomalieerkennung`
+
+---
+
+### 🌱 Weitere Projekte
+- **[Balkonpflanzen Automation](https://github.com/Watchkido/Frank_Albrecht-Data_Analyst/blob/main/TheRightAnalyst/md/Balkonpflanzen%20Automation.md)** — IoT-Pflanzenpflege mit Sensorintegration & Dashboard
+- **[Abschlussarbeit Excel](https://github.com/Watchkido/Abschlussarbeit-Excel)** — Bikestore-Analyse mit VBA-Automatisierung & Pivot-Dashboards
+- **[Datenanalyse-Checkliste](https://github.com/Watchkido/Frank_Albrecht-Data_Analyst/blob/main/TheRightAnalyst/md/Datenanalyse-Checkliste.md)** — Vollständige DA-Checkliste für Python, SQL, Excel & KNIME
+
+---
+
+## 🎓 Ausbildung & Zertifikate
+
+| Jahr | Abschluss |
+|------|-----------|
+| 2026 | **Zertifizierter Data Analyst** — DataSmart Point GmbH |
+| 2025 | Databricks für Einsteiger: Daten analysieren & ML automatisieren |
+| 2025 | Apache Spark mit Python – Grundlagen |
+| 2025 | REST APIs & API-Sicherheit |
+| 2013 | Industriemechaniker Produktionstechnik — BBS Kaiserslautern |
+| 1986 | Zerspanungsfacharbeiter Drehtechnik |
+
+---
+
+## 🌐 Sprachen & Interessen
+
+🇩🇪 Deutsch (Muttersprache) · 🇬🇧 Englisch (Grundkenntnisse)
+
+🥋 Shotokan Karate (2. Kyu, Trainer) · 🔧 DIY-Elektronik & IoT · 🤖 KI & Automatisierung
+
+---
+
+## 📬 Kontakt
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Frank_Albrecht-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/frank-albrecht)
+[![Kaggle](https://img.shields.io/badge/Kaggle-avitarus-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/avitarus)
+[![XING](https://img.shields.io/badge/XING-Frank_Albrecht-006567?style=flat&logo=xing)](https://www.xing.com/profile/Frank_Albrecht72)
+[![Medium](https://img.shields.io/badge/Medium-avitarus-000000?style=flat&logo=medium)](https://medium.com/@avitarus)
+[![Blog](https://img.shields.io/badge/Blog-watchkido.de-FF6B35?style=flat&logo=rss)](https://watchkido.de)
+
+📧 linkedin@watchkido.de
+
