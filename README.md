@@ -61,7 +61,7 @@ Vollständige KI-Pipeline für marine Biodiversitätsforschung: Bildklassifikati
 ### 🔐 [Abschlussarbeit Power BI](https://github.com/Watchkido/Abschlussarbeit-PowerBI)
 **Forensische Datenanalyse | Power BI · Security**
 
-Ad-hoc-Notfallanalyse eines realen Erpressungsszenarios (angeblicher Datenleak). Forensische Auswertung mit interaktiven Power-BI-Dashboards zur Identifikation von Sicherheitslücken und Risikobewertung.
+Ad-hoc-Notfallanalyse eines Erpressungsszenarios (angeblicher Datenleak). Forensische Auswertung mit interaktiven Power-BI-Dashboards zur Identifikation von Sicherheitslücken und Risikobewertung.
 
 `Power BI` `DAX` `Forensik` `Sicherheitsanalyse` `Dashboards`
 
